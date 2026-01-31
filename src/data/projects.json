@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Futbol 1",
+        "description": "Homenaje a la antigua version de Promiedos",
+        "logo":"futbol",
+        "url": "https://futbol1.vercel.app/",
+        "color":"bg-[#8fa31f]"
+    },
+    {
+        "name": "Futbol Play",
+        "description": "Los últimos videos de las ligas de fútbol de todo el mundo",
+        "logo":"futbol_play",
+        "url": "https://futbolplay.vercel.app/",
+        "color":"bg-red-900"
+    },
+    {
+        "name": "Futbol 11 App",
+        "description": "App para Android con toda la información del fútbol mundial",
+        "logo":"futbol",
+        "url": "https://github.com/gabrielJGB/futbol-11",
+        "color":"bg-green-900"
+    },
+    {
+        "name": "Clima App",
+        "description": "Una simple aplicación del clima para Android",
+        "logo":"clima",
+        "color":"bg-blue-900",
+        "url": "https://github.com/gabrielJGB/clima"
+    },
+    {
+        "name": "Reloj y clima",
+        "description": "Reloj de mesa con información del clima, para Android",
+        "logo":"reloj",
+        "color":"bg-black",
+        "url": "https://github.com/gabrielJGB/reloj-v2"
+    },
+    {
+        "name": "Futbol 1 Preact version",
+        "description": "",
+        "logo":"futbol",
+        "color":"bg-slate-900",
+        "url": "https://futbol1-seven.vercel.app/"
+    },
+    {
+        "name": "Futbol 1 NextJS version",
+        "description": "",
+        "logo":"futbol",
+        "color":"bg-slate-900",
+        "url": "https://nfutbol.vercel.app"
+    },
+    {
+        "name": "Ahorcado",
+        "description": "Clásico juego que consiste en adivinar la palabra escondida",
+        "logo":"hang",
+        "color":"bg-[#09537f]",
+        "url": "https://gabrieljgb.github.io/ahorcado/"
+    },
+    {
+        "name": "Arma tu equipo",
+        "description": "Aplicación web para armar la fomación de tu equipo",
+        "logo":"field_2",
+        "color":"bg-green-800",
+        "url": "https://armatuequipo.vercel.app/"
+    },
+    {
+        "name": "Calculadora W10",
+        "description": "Versión de bajo presupuesto de la calculadora de Windows 10",
+        "logo":"calc",
+        "color":"bg-zinc-700",
+        "url": "https://gabrieljgb.github.io/calculadora/"
+        
+    }
+
+]

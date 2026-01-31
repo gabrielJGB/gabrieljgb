@@ -1,0 +1,53 @@
+[
+    {
+        "name":"React",
+        "logo":"react",
+        "url":"https://react.dev/"
+    },
+    {
+        "name":"Preact",
+        "logo":"preact",
+        "url":"https://preactjs.com/"
+    },
+    {
+        "name":"React Native",
+        "logo":"rn",
+        "url":"https://reactnative.dev/"
+    },
+    {
+        "name":"Expo",
+        "logo":"expo",
+        "url":"https://expo.dev/"
+    },
+    {
+        "name":"Node JS",
+        "logo":"node",
+        "url":"https://nodejs.org/es"
+    },
+    {
+        "name":"Express JS",
+        "logo":"express",
+        "url":"https://expressjs.com/"
+    },
+    {
+        "name":"Tailwind CSS",
+        "logo":"tailwind",
+        "url":"https://tailwindcss.com/"
+    },
+    {
+        "name":"VSCodium",
+        "logo":"vscodium",
+        "url":"https://vscodium.com/"
+    },
+    {
+        "name":"Vercel",
+        "logo":"vercel",
+        "url":"https://vercel.com/"
+    },
+    {
+        "name":"Github",
+        "logo":"github",
+        "url":"https://github.com/"
+    }
+    
+]
